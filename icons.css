@@ -262,8 +262,13 @@
 	background-color: var(--icon-color)
 }
 
-.container-3w7J-x a[href="/channels/863435774337613834/863435775612813325"] .iconContainer-1BBaeJ {
+.container-3w7J-x a[href="/channels/863435774337613834/863435775612813324"] .iconContainer-1BBaeJ {
 	--icon: var(--icon-tiktok);
+	background-color: var(--icon-color);
+}
+
+.container-3w7J-x a[href="/channels/863435774337613834/863435775612813327"] .iconContainer-1BBaeJ {
+	--icon: var(--icon-youtube);
 	background-color: var(--icon-color);
 }
 
